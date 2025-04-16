@@ -1,3 +1,6 @@
+
+### NAME: I S ISHITA
+### REG NO : 212224220038
 ### study-of-basic-gates
 
 **AIM:** 
@@ -63,10 +66,7 @@ Y= A⊕B
 
 
 **PROGRAM**
-Developed by: I S Ishita
-RegisterNumber: 212224220038
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
 ![image](https://github.com/user-attachments/assets/a031e16e-07cb-436f-8c33-614a6da74518)
  
 **Logic symbol & Truthtable**
